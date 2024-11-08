@@ -10,7 +10,7 @@ import {
   ResetPasswordScreen,
   Dashboard,
 } from './src/screens'
-
+//ani anna is jod
 const Stack = createStackNavigator()
 
 export default function App() {
